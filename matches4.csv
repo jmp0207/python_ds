@@ -1,0 +1,102 @@
+Date,Local,Visitor,Local Win Prob,Visit Win Prob,Draw Prob
+2/10,Santos Laguna,Tijuana,50%,21%,28%
+2/15,Morelia,Monterrey,22%,53%,25%
+2/15,Puebla,Pachuca,32%,39%,28%
+2/15,Tijuana,Veracruz,60%,14%,27%
+2/16,Cruz Azul,Santos Laguna,44%,27%,29%
+2/16,Tigres UANL,Necaxa,62%,15%,23%
+2/16,León,Toluca,45%,28%,27%
+2/16,Guadalajara,Atlas,49%,23%,28%
+2/17,Pumas UNAM,Club América,30%,43%,27%
+2/17,Lobos BUAP,Querétaro,42%,29%,29%
+2/22,Veracruz,Cruz Azul,24%,46%,30%
+2/22,Atlas,Tigres UANL,25%,48%,27%
+2/23,Querétaro,Morelia,41%,30%,29%
+2/23,Club América,Lobos BUAP,73%,9%,18%
+2/23,Monterrey,Puebla,68%,12%,21%
+2/23,Necaxa,Tijuana,44%,27%,28%
+2/23,Pachuca,Guadalajara,48%,24%,28%
+2/24,Pumas UNAM,León,38%,34%,27%
+2/24,Santos Laguna,Toluca,44%,28%,28%
+3/1,Morelia,Club América,24%,49%,26%
+3/1,Tijuana,Atlas,45%,26%,29%
+3/2,Cruz Azul,Necaxa,50%,22%,27%
+3/2,Tigres UANL,Pachuca,55%,19%,26%
+3/2,León,Santos Laguna,45%,27%,27%
+3/2,Guadalajara,Monterrey,29%,43%,28%
+3/3,Toluca,Veracruz,64%,12%,24%
+3/3,Lobos BUAP,Pumas UNAM,33%,39%,28%
+3/4,Puebla,Querétaro,47%,24%,29%
+3/5,Club América,Necaxa,61%,16%,23%
+3/8,Veracruz,Santos Laguna,25%,47%,29%
+3/8,Atlas,Cruz Azul,36%,35%,30%
+3/9,Pachuca,Tijuana,51%,21%,28%
+3/9,Club América,Puebla,65%,13%,22%
+3/9,Monterrey,Tigres UANL,45%,27%,28%
+3/9,Necaxa,Toluca,38%,34%,28%
+3/9,Querétaro,Guadalajara,33%,37%,30%
+3/10,Pumas UNAM,Morelia,50%,23%,27%
+3/10,Lobos BUAP,León,28%,46%,26%
+3/15,Morelia,Lobos BUAP,49%,24%,27%
+3/15,Puebla,Pumas UNAM,39%,33%,28%
+3/16,Cruz Azul,Pachuca,43%,28%,29%
+3/16,Guadalajara,Club América,31%,40%,29%
+3/16,Tigres UANL,Querétaro,69%,10%,21%
+3/16,Tijuana,Monterrey,26%,47%,27%
+3/17,Toluca,Atlas,52%,21%,26%
+3/17,Santos Laguna,Necaxa,50%,23%,27%
+3/17,León,Veracruz,66%,12%,22%
+3/29,Morelia,León,32%,40%,27%
+3/29,Atlas,Santos Laguna,36%,35%,29%
+3/30,Querétaro,Tijuana,37%,33%,31%
+3/30,Club América,Tigres UANL,42%,30%,28%
+3/30,Pachuca,Toluca,46%,27%,28%
+3/30,Necaxa,Veracruz,59%,16%,25%
+3/30,Monterrey,Cruz Azul,57%,17%,25%
+3/31,Pumas UNAM,Guadalajara,42%,29%,29%
+3/31,Lobos BUAP,Puebla,38%,34%,28%
+4/5,Veracruz,Atlas,31%,39%,30%
+4/5,Puebla,Morelia,45%,27%,28%
+4/6,Cruz Azul,Querétaro,57%,16%,27%
+4/6,Tigres UANL,Pumas UNAM,61%,15%,24%
+4/6,León,Necaxa,52%,23%,25%
+4/6,Guadalajara,Lobos BUAP,57%,17%,26%
+4/6,Tijuana,Club América,28%,44%,28%
+4/7,Toluca,Monterrey,31%,42%,27%
+4/7,Santos Laguna,Pachuca,43%,29%,28%
+4/12,Puebla,León,33%,39%,28%
+4/12,Atlas,Necaxa,42%,30%,27%
+4/13,Querétaro,Toluca,31%,40%,29%
+4/13,Pachuca,Veracruz,66%,11%,23%
+4/13,Morelia,Guadalajara,36%,35%,30%
+4/13,Monterrey,Santos Laguna,58%,18%,25%
+4/14,Pumas UNAM,Tijuana,45%,26%,29%
+4/14,Lobos BUAP,Tigres UANL,19%,56%,25%
+4/15,Club América,Cruz Azul,54%,19%,26%
+4/19,Veracruz,Monterrey,15%,61%,23%
+4/19,Tijuana,Lobos BUAP,53%,20%,27%
+4/20,Necaxa,Pachuca,37%,36%,28%
+4/20,León,Atlas,54%,21%,25%
+4/20,Tigres UANL,Morelia,67%,11%,22%
+4/20,Cruz Azul,Pumas UNAM,49%,23%,28%
+4/20,Guadalajara,Puebla,51%,21%,28%
+4/21,Toluca,Club América,34%,39%,28%
+4/21,Santos Laguna,Querétaro,57%,17%,26%
+4/26,Puebla,Tigres UANL,24%,49%,27%
+4/26,Morelia,Tijuana,39%,31%,30%
+4/27,Pachuca,Atlas,54%,20%,26%
+4/27,Club América,Santos Laguna,55%,20%,26%
+4/27,Monterrey,Necaxa,64%,14%,22%
+4/27,Guadalajara,León,40%,31%,29%
+4/28,Pumas UNAM,Toluca,39%,32%,28%
+4/28,Lobos BUAP,Cruz Azul,29%,43%,29%
+4/28,Querétaro,Veracruz,51%,20%,29%
+5/3,Atlas,Monterrey,24%,50%,26%
+5/4,Cruz Azul,Morelia,55%,18%,27%
+5/4,Tigres UANL,Guadalajara,59%,16%,26%
+5/4,León,Pachuca,44%,29%,27%
+5/4,Necaxa,Querétaro,52%,22%,27%
+5/4,Toluca,Lobos BUAP,60%,16%,24%
+5/4,Veracruz,Club América,17%,58%,25%
+5/4,Tijuana,Puebla,47%,24%,29%
+5/5,Santos Laguna,Pumas UNAM,49%,24%,27%
